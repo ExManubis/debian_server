@@ -1,6 +1,6 @@
 # Debian server guide
 
-## Instalér via grafisk interface
+## Installér via grafisk interface
 
 - Følg instrukserne der kommer på skærmen. 
 - Når der skal vælges ekstra pakker/DE, vælges *kun* webserver og ssh.
@@ -16,8 +16,8 @@
 - Log ud fra bruger med "logout"
 - Log ind igen.
 - Tjek om bruger er tilføjet sudo gruppen med "sudo whoami"
-- klon github med "git clone https://"
-- "cd deb_install" 
+- klon github med "git clone https://github.com/ExManubis/debian_server/"
+- "cd debian_server" 
 - gør skrift eksekvérbart med "chmod +x server_install.sh"
 - kør script "./server_install.sh"
 - Done!
