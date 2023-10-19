@@ -20,3 +20,4 @@ sudo apt install network-manager
 sudo rm /etc/NetworkManager/NetworkManager.conf
 sudo cp /config/NetworkManager.conf
 sudo systemctl enable NetworkManager --now
+echo '.......done!!!'
