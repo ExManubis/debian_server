@@ -3,7 +3,7 @@
 ## Installér via grafisk interface
 
 - Følg instrukserne der kommer på skærmen. 
-- Når der skal vælges ekstra pakker/DE, vælges *kun* webserver og ssh.
+- Når der skal vælges ekstra pakker/DE, vælges *kun* webserver, SSH og standard system utilities.
 
 ## Efter installation
 
