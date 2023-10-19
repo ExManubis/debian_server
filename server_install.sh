@@ -10,14 +10,11 @@ echo 'Installing applications for server'
 echo '================================================'
 sudo apt install neofetch net-tools ranger neovim htop btop tree
 echo 'neofetch' >> .bashrc
-echo 'Installing minimal neovim config'
-echo '================================================'
-mkdir ~/.config/nvim
-cp /config/init.vim ~/.config/nvim/
 echo 'Installing and configuring Network Manager'
 echo '================================================'
 sudo apt install network-manager
 sudo rm /etc/NetworkManager/NetworkManager.conf
-sudo cp /config/NetworkManager.conf
+sudo cp /config/NetworkManager.conf /etc/NetworkManager/
 sudo systemctl enable NetworkManager --now
+echo '================================================'
 echo '.......done!!!'
