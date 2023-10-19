@@ -16,7 +16,7 @@
 - Log ud fra bruger med "logout"
 - Log ind igen.
 - Tjek om bruger er tilføjet sudo gruppen med "sudo whoami"
-- klon github med "git clone https://"
+- klon github med "git clone https://github.com/ExManubis/debian_server/"
 - "cd deb_install" 
 - gør skrift eksekvérbart med "chmod +x server_install.sh"
 - kør script "./server_install.sh"
