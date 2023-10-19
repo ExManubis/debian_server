@@ -8,7 +8,7 @@
 ## Efter installation
 
 - Login med bruger lavet under installation
-- Skift til root med "su -i"
+- Skift til root med "su -"
 - Opdatér + opgrader pakker med "apt update" + "apt upgrade"
 - Installér sudo + git med "apt install sudo git"
 - Tilføj bruger til sudo gruppen med "usermod -aG sudo $USERNAME"
