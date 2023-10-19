@@ -1,6 +1,6 @@
 # Debian server guide
 
-## Instalér via grafisk interface
+## Installér via grafisk interface
 
 - Følg instrukserne der kommer på skærmen. 
 - Når der skal vælges ekstra pakker/DE, vælges *kun* webserver og ssh.
