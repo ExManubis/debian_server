@@ -1,0 +1,15 @@
+
+==============================
+Tid: 1.56
+Spiller: #10 Laudrup
+Observation: god dribbler
+Observant: Mikkel
+IP: ('127.0.0.1', 48876)
+==============================
+==============================
+Tid: 10.56
+Spiller: #9 Møller
+Observation: godt spark
+Observant: Mikkel
+IP: ('127.0.0.1', 48876)
+==============================
