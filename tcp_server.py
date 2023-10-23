@@ -2,12 +2,15 @@
 # IMPORTS
 import socket
 import sys
+import threading
+from _thread import *
+#import pymysql
 
 # VARIABLES
 
 # set server IP and port
 server_host = '127.0.0.1'
-server_port = 65431
+server_port = 65432
 
 # open data file and make variable for appending data
 f = open('data.txt', 'a') # a = appending 
@@ -16,11 +19,10 @@ f = open('data.txt', 'a') # a = appending
 try:
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.bind((server_host, server_port))
-        s.listen()
+        s.listen(3)
         connection, addr = s.accept()
         with connection:
             print(f'Connected by {addr}')
-            #connection.setblocking(False)
             while True:
                 message, client = connection.recvfrom(1024)
                 print()

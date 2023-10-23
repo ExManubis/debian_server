@@ -12,4 +12,10 @@ Spiller: #9 Møller
 Observation: godt spark
 Observant: Mikkel
 IP: ('127.0.0.1', 48876)
+============================================================
+Tid: 1.45
+Spiller: #3 Jensen
+Observation: God dribbler
+Observant: Mikkel
+IP: ('127.0.0.1', 56282)
 ==============================
