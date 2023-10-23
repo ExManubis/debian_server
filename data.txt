@@ -19,3 +19,52 @@ Observation: God dribbler
 Observant: Mikkel
 IP: ('127.0.0.1', 56282)
 ==============================
+==============================
+Tid: 1.34
+Spiller: #8 Jens
+Observation: god
+Observant: Mikkel
+IP: ('10.136.132.200', 36578)
+==============================
+==============================
+Tid: 1.45
+Spiller: #4
+Observation: god
+Observant: Mikkel
+IP: ('10.136.132.200', 51944)
+==============================
+==============================
+Tid: 1.45
+Spiller: #5 Jensen
+Observation: god
+Observant: Mikkel
+IP: ('10.136.132.200', 59312)
+==============================
+==============================
+Tid: 1.56
+Spiller: #3 Jons
+Observation: god
+Observant: Mikkel
+IP: ('10.136.132.200', 41122)
+==============================
+==============================
+Tid: 1.45
+Spiller: #4 Testspiller
+Observation: god test
+Observant: Mikkel
+IP: ('10.136.132.200', 38366)
+==============================
+==============================
+Tid: 1.45
+Spiller: #4 test
+Observation: test
+Observant: Mikkel
+IP: ('10.136.132.200', 50170)
+==============================
+==============================
+Tid: 1.55
+Spiller: #99 tester
+Observation: god test!
+Observant: Tester
+IP: ('10.136.132.200', 57942)
+==============================
